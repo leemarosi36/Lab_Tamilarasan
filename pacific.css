@@ -24,12 +24,15 @@ h1 {
 nav {
     font-weight: bold;
     background-color: #90C7E3;
-    padding: .5em .5em .5em 2em;
+    padding-top: .5em;
+    padding-right: .5em;
+    padding-bottom: .5em;
+    padding-left: 2em;
 
 }
 
 h3 {
-color: #000033;
+    color: #000033;
 }
 
 h2 {
@@ -64,29 +67,33 @@ footer {
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
 }
 
-main{
+main {
     padding: 0em 2em;
     display: block;
 }
-#homehero{
+
+#homehero {
     height: 300px;
     background-image: url(images/coast.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
 
 }
-#yurthero{
+
+#yurthero {
     height: 300px;
     background-image: url(images/yurt.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
-#trailhero{
+
+#trailhero {
     height: 300px;
     background-image: url(images/trail.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
-nav a{
+
+nav a {
     text-decoration: none;
 }
