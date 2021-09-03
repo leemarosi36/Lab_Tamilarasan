@@ -63,3 +63,8 @@ footer {
     max-width: 1024px;
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
 }
+
+main{
+    padding: 0em 2em;
+    display: block;
+}
