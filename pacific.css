@@ -13,6 +13,10 @@ header {
 
 h1 {
     line-height: 200%;
+    background-image: url(images/sunset.jpg) no-repeat right;
+    padding-left: 2em;
+    height: 72px;
+
 }
 
 nav {
