@@ -13,7 +13,9 @@ header {
 
 h1 {
     line-height: 200%;
-    background-image: url(images/sunset.jpg) no-repeat right;
+    background-image: url(images/sunset.jpg);
+    background-position: right;
+    background-repeat: no-repeat;
     padding-left: 2em;
     height: 72px;
 
