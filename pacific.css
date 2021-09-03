@@ -1,7 +1,8 @@
 body {
-    background-color: #FFFFFF;
+    background-color: #3399CC;
     color: #666666;
     font-family: Verdana, Arial, sans-serif;
+    background-image: linear-gradient(to bottom, #3399CC, #C2E0F0, #3399CC);
 }
 
 header {
