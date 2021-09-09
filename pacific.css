@@ -100,3 +100,6 @@ main {
 nav a {
     text-decoration: none;
 }
+nav a:link {color:#FFFFFF;}
+nav a:visited {color:#C2E0F0;}
+nav a:hoover {color:#CCCCCC;}
