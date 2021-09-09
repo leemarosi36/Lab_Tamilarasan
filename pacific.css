@@ -84,7 +84,7 @@ main {
     background-image: url(images/coast.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
-
+    margin-left: 170px;
 }
 
 #yurthero {
@@ -92,6 +92,7 @@ main {
     background-image: url(images/yurt.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
+    margin-left: 170px;
 }
 
 #trailhero {
@@ -99,6 +100,7 @@ main {
     background-image: url(images/trail.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
+    margin-left: 170px;
 }
 
 nav a {
