@@ -24,11 +24,13 @@ h1 {
 
 nav {
     font-weight: bold;
-    background-color: #90C7E3;
     padding-top: .5em;
     padding-right: .5em;
     padding-bottom: .5em;
     padding-left: 2em;
+    float: left;
+    width: 160px;
+    padding: 0%;
 
 }
 
