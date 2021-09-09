@@ -114,3 +114,4 @@ nav a:hover {color:#CCCCCC;}
 nav ul{
     padding-left: 1em;
 }
+header, nav,main, footer {display: block;}
