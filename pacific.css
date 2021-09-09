@@ -103,3 +103,6 @@ nav a {
 nav a:link {color:#FFFFFF;}
 nav a:visited {color:#C2E0F0;}
 nav a:hover {color:#CCCCCC;}
+nav ul{
+    padding-left: 1em;
+}
