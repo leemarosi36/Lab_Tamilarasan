@@ -73,6 +73,10 @@ footer {
 main {
     padding: 0em 2em;
     display: block;
+    background-color: #FFFFFF;
+    margin-left: 170px;
+    padding-top: 1px;
+    padding-bottom: 1px;
 }
 
 #homehero {
