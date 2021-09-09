@@ -27,11 +27,7 @@ h1 {
 
 nav {
     font-weight: bold;
-    padding-top: .5em;
-    padding-right: .5em;
-    padding-bottom: .5em;
-    padding-left: 2em;
-    float: left;
+     float: left;
     width: 160px;
     padding: 0%;
 
