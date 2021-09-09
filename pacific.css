@@ -113,5 +113,6 @@ nav a:visited {color:#C2E0F0;}
 nav a:hover {color:#CCCCCC;}
 nav ul{
     padding-left: 1em;
+    list-style-type: none;
 }
 header, nav,main, footer {display: block;}
